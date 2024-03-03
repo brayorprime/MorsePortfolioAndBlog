@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Brayden Morse'
+theme = 'hugo-theme-stack'
