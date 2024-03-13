@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Brayden Morse</title>
+        <link>https://example.org/page/</link>
+        <description>Recent content in Pages on Brayden Morse</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 10 Mar 2024 16:51:57 -0700</lastBuildDate><atom:link href="https://example.org/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About Me</title>
+        <link>https://example.org/page/aboutme/</link>
+        <pubDate>Sun, 10 Mar 2024 16:51:57 -0700</pubDate>
+        
+        <guid>https://example.org/page/aboutme/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://example.org/page/aboutme/avatar.png&#34;
+	width=&#34;300&#34;
+	height=&#34;300&#34;
+	srcset=&#34;https://example.org/page/aboutme/avatar_hu811b7434b194afc94fd64f26f0f834fa_29257_480x0_resize_box_3.png 480w, https://example.org/page/aboutme/avatar_hu811b7434b194afc94fd64f26f0f834fa_29257_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Brayden Morse&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Engineer, Designer, etc&lt;/p&gt;
+&lt;p&gt;Currently a 3rd year at Oregon State University - Cascades&lt;/p&gt;
+&lt;p&gt;Majoring in Energy Systems Engineering&lt;/p&gt;
+&lt;p&gt;Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu risus quis varius quam quisque id diam. Eu facilisis sed odio morbi quis. Elementum pulvinar etiam non quam lacus suspendisse. Erat pellentesque adipiscing commodo elit. Tellus rutrum tellus pellentesque eu. Ut tellus elementum sagittis vitae et. Pulvinar mattis nunc sed blandit libero volutpat. Lectus urna duis convallis convallis. Vel turpis nunc eget lorem dolor sed viverra ipsum. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Ut venenatis tellus in metus vulputate eu scelerisque. Vitae congue eu consequat ac felis donec. Egestas egestas fringilla phasellus faucibus. Amet cursus sit amet dictum sit amet justo donec.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Jobs / Experience</title>
+        <link>https://example.org/page/jobs/</link>
+        <pubDate>Sun, 10 Mar 2024 16:51:57 -0700</pubDate>
+        
+        <guid>https://example.org/page/jobs/</guid>
+        <description>&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;osu-cascades-makerspace-lead-tech-----2023---2025&#34;&gt;OSU Cascades Makerspace Lead Tech &amp;mdash; 2023 - 2025&lt;/h3&gt;
+&lt;p&gt;2022-2023 Makerspace Technician&lt;/p&gt;
+&lt;p&gt;Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu risus quis varius quam quisque id diam. Eu facilisis sed odio morbi quis. Elementum pulvinar etiam non quam lacus suspendisse. Erat pellentesque adipiscing commodo elit. Tellus rutrum tellus pellentesque eu. Ut tellus elementum sagittis vitae et. Pulvinar mattis nunc sed blandit libero volutpat. Lectus urna duis convallis convallis. Vel turpis nunc eget lorem dolor sed viverra ipsum. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Ut venenatis tellus in metus vulputate eu scelerisque. Vitae congue eu consequat ac felis donec. Egestas egestas fringilla phasellus faucibus. Amet cursus sit amet dictum sit amet justo donec.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;undergrad-research-manifold-microchannel-heat-exchangers-pressure-drop-prediction-with-porous-medium-approach-----2023---2025&#34;&gt;Undergrad Research: Manifold-Microchannel Heat Exchanger’s Pressure Drop Prediction with Porous Medium Approach &amp;mdash; 2023 - 2025&lt;/h3&gt;
+&lt;p&gt;2022-2023 Makerspace Technician
+Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu risus quis varius quam quisque id diam. Eu facilisis sed odio morbi quis. Elementum pulvinar etiam non quam lacus suspendisse. Erat pellentesque adipiscing commodo elit. Tellus rutrum tellus pellentesque eu. Ut tellus elementum sagittis vitae et. Pulvinar mattis nunc sed blandit libero volutpat. Lectus urna duis convallis convallis. Vel turpis nunc eget lorem dolor sed viverra ipsum. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Ut venenatis tellus in metus vulputate eu scelerisque. Vitae congue eu consequat ac felis donec. Egestas egestas fringilla phasellus faucibus. Amet cursus sit amet dictum sit amet justo donec.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;mechanical-and-software-development-for-research-grant-----2022---2025&#34;&gt;Mechanical and Software Development for Research Grant &amp;mdash; 2022 - 2025&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.org/page/jobs/Feb24thRender.JPG&#34;
+	width=&#34;1875&#34;
+	height=&#34;953&#34;
+	srcset=&#34;https://example.org/page/jobs/Feb24thRender_huf5f3c5f73568b9f720dab3c2249f6450_156799_480x0_resize_q75_box.JPG 480w, https://example.org/page/jobs/Feb24thRender_huf5f3c5f73568b9f720dab3c2249f6450_156799_1024x0_resize_q75_box.JPG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Food Quantitization Project&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;196&#34;
+		data-flex-basis=&#34;472px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu risus quis varius quam quisque id diam. Eu facilisis sed odio morbi quis. Elementum pulvinar etiam non quam lacus suspendisse. Erat pellentesque adipiscing commodo elit. Tellus rutrum tellus pellentesque eu. Ut tellus elementum sagittis vitae et. Pulvinar mattis nunc sed blandit libero volutpat. Lectus urna duis convallis convallis. Vel turpis nunc eget lorem dolor sed viverra ipsum. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Ut venenatis tellus in metus vulputate eu scelerisque. Vitae congue eu consequat ac felis donec. Egestas egestas fringilla phasellus faucibus. Amet cursus sit amet dictum sit amet justo donec.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
