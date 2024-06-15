@@ -9,10 +9,10 @@
         <lastBuildDate>Sun, 10 Mar 2024 17:53:46 -0700</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Me</title>
         <link>https://example.org/page/aboutme/</link>
-        <pubDate>Sun, 10 Mar 2024 16:51:57 -0700</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://example.org/page/aboutme/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://example.org/page/aboutme/avatar.png&#34;
+        <description>&lt;img src="https://example.org/page/aboutme/AboutMeCover.jpg" alt="Featured image of post About Me" /&gt;&lt;p&gt;&lt;img src=&#34;https://example.org/page/aboutme/avatar.png&#34;
 	width=&#34;300&#34;
 	height=&#34;300&#34;
 	srcset=&#34;https://example.org/page/aboutme/avatar_hu811b7434b194afc94fd64f26f0f834fa_29257_480x0_resize_box_3.png 480w, https://example.org/page/aboutme/avatar_hu811b7434b194afc94fd64f26f0f834fa_29257_1024x0_resize_box_3.png 1024w&#34;
@@ -27,28 +27,40 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;Engineer, Designer, etc&lt;/p&gt;
-&lt;p&gt;Currently a 3rd year at Oregon State University - Cascades&lt;/p&gt;
+&lt;p&gt;Currently a Senior at Oregon State University - Cascades&lt;/p&gt;
 &lt;p&gt;Majoring in Energy Systems Engineering&lt;/p&gt;
 &lt;p&gt;Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu risus quis varius quam quisque id diam. Eu facilisis sed odio morbi quis. Elementum pulvinar etiam non quam lacus suspendisse. Erat pellentesque adipiscing commodo elit. Tellus rutrum tellus pellentesque eu. Ut tellus elementum sagittis vitae et. Pulvinar mattis nunc sed blandit libero volutpat. Lectus urna duis convallis convallis. Vel turpis nunc eget lorem dolor sed viverra ipsum. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Ut venenatis tellus in metus vulputate eu scelerisque. Vitae congue eu consequat ac felis donec. Egestas egestas fringilla phasellus faucibus. Amet cursus sit amet dictum sit amet justo donec.&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Jobs / Experience</title>
+        <title>Job Experience</title>
         <link>https://example.org/page/jobs/</link>
-        <pubDate>Sun, 10 Mar 2024 16:51:57 -0700</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://example.org/page/jobs/</guid>
-        <description>&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+        <description>&lt;img src="https://example.org/page/jobs/AboutMeCover.jpg" alt="Featured image of post Job Experience" /&gt;&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;osu-cascades-makerspace-lead-tech-----2023---2025&#34;&gt;OSU Cascades Makerspace Lead Tech &amp;mdash; 2023 - 2025&lt;/h3&gt;
 &lt;p&gt;2022-2023 Makerspace Technician&lt;/p&gt;
 &lt;p&gt;Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu risus quis varius quam quisque id diam. Eu facilisis sed odio morbi quis. Elementum pulvinar etiam non quam lacus suspendisse. Erat pellentesque adipiscing commodo elit. Tellus rutrum tellus pellentesque eu. Ut tellus elementum sagittis vitae et. Pulvinar mattis nunc sed blandit libero volutpat. Lectus urna duis convallis convallis. Vel turpis nunc eget lorem dolor sed viverra ipsum. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Ut venenatis tellus in metus vulputate eu scelerisque. Vitae congue eu consequat ac felis donec. Egestas egestas fringilla phasellus faucibus. Amet cursus sit amet dictum sit amet justo donec.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solidworks&lt;/li&gt;
+&lt;li&gt;Fusion 360&lt;/li&gt;
+&lt;li&gt;Rapid Prototyping and 3D Printing (FDM, SLA)&lt;/li&gt;
+&lt;li&gt;Managing Experience&lt;/li&gt;
+&lt;li&gt;Teaching Experience&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;undergrad-research-manifold-microchannel-heat-exchangers-pressure-drop-prediction-with-porous-medium-approach-----2023---2025&#34;&gt;Undergrad Research: Manifold-Microchannel Heat Exchanger’s Pressure Drop Prediction with Porous Medium Approach &amp;mdash; 2023 - 2025&lt;/h3&gt;
-&lt;p&gt;2022-2023 Makerspace Technician
-Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu risus quis varius quam quisque id diam. Eu facilisis sed odio morbi quis. Elementum pulvinar etiam non quam lacus suspendisse. Erat pellentesque adipiscing commodo elit. Tellus rutrum tellus pellentesque eu. Ut tellus elementum sagittis vitae et. Pulvinar mattis nunc sed blandit libero volutpat. Lectus urna duis convallis convallis. Vel turpis nunc eget lorem dolor sed viverra ipsum. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Ut venenatis tellus in metus vulputate eu scelerisque. Vitae congue eu consequat ac felis donec. Egestas egestas fringilla phasellus faucibus. Amet cursus sit amet dictum sit amet justo donec.&lt;/p&gt;
+&lt;h3 id=&#34;undergrad-research-manifold-microchannel-heat-exchangers-pressure-drop-prediction-with-porous-medium-approach-----2022---2025&#34;&gt;Undergrad Research: Manifold-Microchannel Heat Exchanger’s Pressure Drop Prediction with Porous Medium Approach &amp;mdash; 2022 - 2025&lt;/h3&gt;
+&lt;p&gt;2022-2023 Makerspace Technician&lt;/p&gt;
+&lt;p&gt;Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu risus quis varius quam quisque id diam. Eu facilisis sed odio morbi quis. Elementum pulvinar etiam non quam lacus suspendisse. Erat pellentesque adipiscing commodo elit. Tellus rutrum tellus pellentesque eu. Ut tellus elementum sagittis vitae et. Pulvinar mattis nunc sed blandit libero volutpat. Lectus urna duis convallis convallis. Vel turpis nunc eget lorem dolor sed viverra ipsum. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Ut venenatis tellus in metus vulputate eu scelerisque. Vitae congue eu consequat ac felis donec. Egestas egestas fringilla phasellus faucibus. Amet cursus sit amet dictum sit amet justo donec.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ansys Fluent (Fluids, Thermal)&lt;/li&gt;
+&lt;li&gt;Manifold-Microchannel Heat Exchanger Design&lt;/li&gt;
+&lt;li&gt;Experimentation Experience&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;mechanical-and-software-development-for-research-grant-----2022---2025&#34;&gt;Mechanical and Software Development for Research Grant &amp;mdash; 2022 - 2025&lt;/h3&gt;
+&lt;h3 id=&#34;mechanical-and-software-development-for-research-grant-----2021---2025&#34;&gt;Mechanical and Software Development for Research Grant &amp;mdash; 2021 - 2025&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;https://example.org/page/jobs/Feb24thRender.JPG&#34;
 	width=&#34;1875&#34;
 	height=&#34;953&#34;
@@ -65,23 +77,6 @@ Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius
 &gt;&lt;/p&gt;
 &lt;p&gt;Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Arcu risus quis varius quam quisque id diam. Eu facilisis sed odio morbi quis. Elementum pulvinar etiam non quam lacus suspendisse. Erat pellentesque adipiscing commodo elit. Tellus rutrum tellus pellentesque eu. Ut tellus elementum sagittis vitae et. Pulvinar mattis nunc sed blandit libero volutpat. Lectus urna duis convallis convallis. Vel turpis nunc eget lorem dolor sed viverra ipsum. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Ut venenatis tellus in metus vulputate eu scelerisque. Vitae congue eu consequat ac felis donec. Egestas egestas fringilla phasellus faucibus. Amet cursus sit amet dictum sit amet justo donec.&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>Projects</title>
-        <link>https://example.org/projects/</link>
-        <pubDate>Sun, 10 Mar 2024 16:46:10 -0700</pubDate>
-        
-        <guid>https://example.org/projects/</guid>
-        <description>&lt;h2 id=&#34;mow&#34;&gt;Mow&lt;/h2&gt;
-</description>
-        </item>
-        <item>
-        <title>CompressorPedal</title>
-        <link>https://example.org/post/2024/compressorpedal/</link>
-        <pubDate>Sun, 10 Mar 2024 17:53:46 -0700</pubDate>
-        
-        <guid>https://example.org/post/2024/compressorpedal/</guid>
-        <description></description>
         </item>
         <item>
         <title>Aluminum LED Light Panel</title>
