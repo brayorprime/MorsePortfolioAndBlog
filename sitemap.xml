@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/page/aboutme/</loc>
+    <loc>https://brayorprime.github.io/MorsePortfolioAndBlog/page/aboutme/</loc>
   </url><url>
-    <loc>https://example.org/page/jobs/</loc>
+    <loc>https://brayorprime.github.io/MorsePortfolioAndBlog/page/jobs/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://brayorprime.github.io/MorsePortfolioAndBlog/</loc>
     <lastmod>2024-03-10T17:53:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://brayorprime.github.io/MorsePortfolioAndBlog/post/</loc>
     <lastmod>2024-03-10T17:53:46-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/2024/aluminumlightpanel/</loc>
+    <loc>https://brayorprime.github.io/MorsePortfolioAndBlog/post/2024/aluminumlightpanel/</loc>
     <lastmod>2024-02-29T20:16:51-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/2024/digitalmicroscopeproject/</loc>
+    <loc>https://brayorprime.github.io/MorsePortfolioAndBlog/post/2024/digitalmicroscopeproject/</loc>
     <lastmod>2024-02-29T20:16:51-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://brayorprime.github.io/MorsePortfolioAndBlog/categories/</loc>
   </url><url>
-    <loc>https://example.org/page/</loc>
+    <loc>https://brayorprime.github.io/MorsePortfolioAndBlog/page/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://brayorprime.github.io/MorsePortfolioAndBlog/tags/</loc>
   </url>
 </urlset>

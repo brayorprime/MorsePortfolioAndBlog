@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Brayden Morse</title>
-        <link>https://example.org/tags/</link>
+        <link>https://brayorprime.github.io/MorsePortfolioAndBlog/tags/</link>
         <description>Recent content in Tags on Brayden Morse</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language><atom:link href="https://brayorprime.github.io/MorsePortfolioAndBlog/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
